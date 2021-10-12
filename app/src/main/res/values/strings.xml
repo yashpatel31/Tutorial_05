@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Rku_5</string>
+
+    <!--Create a string array to store the names of city-->
+
+    <string-array name="city_list">
+        <item><font color="@color/black">Select City...</font></item>
+        <item><font fontFamily="monospace">Amreli </font></item>
+        <item><font fontFamily="monospace">Bhavnagar </font></item>
+        <item><font fontFamily="monospace">Gondal </font></item>
+        <item><font fontFamily="monospace">Jamnagar </font></item>
+        <item><font fontFamily="monospace">Junagadh </font></item>
+        <item><font fontFamily="monospace">Rajkot </font></item>
+    </string-array>
+
+</resources>
